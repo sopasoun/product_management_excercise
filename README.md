@@ -34,3 +34,7 @@ KICKOFF AGENDA
 5.  Set a timeline to address blockers and/or any additional assets needed from the client team and internal team.
 6.  Break out the agenda for the next few kick-off meetings so everyone will complete their action items (if any) prior to those meetings for the week.
 7.  Summarize, review action items (who is clearly doing what), and kick-off the project.
+
+NOTE:
+
+Since this is a fairly large project, we'll focus on the Homepage for Sprint 0 and framework work required for subsequent sprints and pages.  I'll simplify things for time constraint purposes.  Assume this is how we've broken down the work in the kickoff and this is part of the project plan to kick things off.
