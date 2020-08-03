@@ -1,5 +1,4 @@
 # product_management_excercise
-This is a short product management exercise with the Raft team.
 BACKGROUND:
 
 Before starting the project's agenda, there are a few assumptions I need to put into place to play out the scenario.  There are a few questions I need to lay out and answer to set the framework:
@@ -24,10 +23,12 @@ KICKOFF AGENDA
    c.  Search Filters and Search Elements (Map, Options) etc. - despop and mobile
    d.  Landing Page for the Listing once consumers are ready to review, and the high-level elements of it.
 3.  Review the breakdown of the work on the above screens.  Define roles and responsibilities with the team on both sides.  May include.
-   a.  Front-end work required to build the site.  Will require coordination with back-end.
-   b.  Back-end work required (connecting / creating new APIs, calls and other components for each page)
-   c.  Art assets and other UX needed - what we have is a draft and further refinemenets will be needed
-   d.  Content for the homepage, search results page and detail page to replace placeholder texts.  Articles and such required.
+   a.  High-level stories created will be reviewed.
+     i.  Note:  The stories I created are high level and generally I will break it down further after reviewing with our internal team and development has had a chance to further deep dive into it.
+   b.  Front-end work required to build the site.  Will require coordination with back-end.
+   c.  Back-end work required (connecting / creating new APIs, calls and other components for each page)
+   d.  Art assets and other UX needed - what we have is a draft and further refinemenets will be needed
+   e.  Content for the homepage, search results page and detail page to replace placeholder texts.  Articles and such required.
 3.  Open up a discussion on the artifacts, APIs, assets, and other elements required from both our internal team and the client stakeholder team.
    a.  For example, the clients may want us to call to their servers and serve up results.  We'll need API information, etc. to complete the work.
 4.  Discuss any blockers and dependencies required from both teams.  Identify those as blockers and prioritize them accordingly.
