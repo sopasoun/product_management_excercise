@@ -29,6 +29,7 @@ KICKOFF AGENDA
    c.  Art assets and other UX needed - what we have is a draft and further refinemenets will be needed
    d.  Content for the homepage, search results page and detail page to replace placeholder texts.  Articles and such required.
 3.  Open up a discussion on the artifacts, APIs, assets, and other elements required from both our internal team and the client stakeholder team.
+   a.  For example, the clients may want us to call to their servers and serve up results.  We'll need API information, etc. to complete the work.
 4.  Discuss any blockers and dependencies required from both teams.  Identify those as blockers and prioritize them accordingly.
 5.  Set a timeline to address blockers and/or any additional assets needed from the client team and internal team.
 6.  Break out the agenda for the next few kick-off meetings so everyone will complete their action items (if any) prior to those meetings for the week.
